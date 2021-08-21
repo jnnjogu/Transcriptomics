@@ -103,7 +103,7 @@ Finally, after finishing our analysis 🎉🎉, our team decided to start an ini
 | GitHUb Markdown Development | Format & Organization   | Main ReadMe: Utkarsha, Osama, Rana, Ankita, TosinA, Bandana. Quality control: Jaspreet. Mapping: Saket, Yasmeen, Johny, Dawoud. Differential Gene Expression Analysis: Rana. Visualization: Osama, Jaspreet, Utkarsha. Functional Enrichment Analysis: TosinA | @RanaSalah, @-Utkarsha12-, @Osama, @Anku., @TosinA, @Bandana, @Jaspreet, @Sam, @Saket, @Johny, @Dawoud |
 | Graphical Abstract Design |   | Rana, Osama, Jaspreet, Ankita, Diyar | @RanaSalah, @Osama, @Jaspreet, @Anku., @diyar|
 | Advertisement |  Writing post on transfer-market | Tosin | @TosinA|
-| Training | Moderated the training workshops & presented the workflow steps practically | Quality control: Yasmeen & Jaspreet. Mapping: Saket, Johny, Yasmeen. Differential Gene Expression Analysis: Rana & Osama. Visualization: Osama. Functional Enrichment Analysis: Amira| @Sam & @Jaspreet, @Saket, @RanaSalah, @Osama, @Amira|
+| Training | Moderated the training workshops & presented the workflow steps practically | Quality control: Yasmeen & Jaspreet. Mapping: Saket, Yasmeen. Differential Gene Expression Analysis: Rana & Osama. Visualization: Osama. Functional Enrichment Analysis: Amira| @Sam & @Jaspreet, @Saket, @RanaSalah, @Osama, @Amira|
   
 # <p align = "center"> References </p>
 
